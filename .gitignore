@@ -1,0 +1,8 @@
+/.vscode
+**/__pycache__
+**/migrations
+/bin
+/lib
+/env.py
+/include
+/pyvenv.cfg
